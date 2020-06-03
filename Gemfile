@@ -17,8 +17,8 @@ gem 'webpacker', '~> 4.0'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7'
-# The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. http://getbootstrap.com
-gem 'bootstrap', '~> 4.5'
+# A modern CSS framework based on Flexbox
+gem 'bulma-rails', '~> 0.8.2'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
