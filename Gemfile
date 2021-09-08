@@ -57,7 +57,7 @@ group :test do
   # Easy installation and use of web drivers to run system tests with browsers
   gem 'webdrivers'
   # Provides a better error page for Rails and other Rack apps. Includes source code inspection, a live REPL and local/instance variable inspection for all stack frames.
-  gem 'better_errors', '~> 2.7', '>= 2.7.1'
+  gem 'better_errors', '~> 2.8'
   # Retrieve the binding of a method's caller. Can also retrieve bindings even further up the stack.
   gem 'binding_of_caller', '~> 0.8.0'
 end
